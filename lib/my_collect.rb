@@ -8,5 +8,6 @@ def my_collect (array)
     array.push(x)
   end
   
+  array
 end 
 
